@@ -1,1 +1,7 @@
 # Git and GitHub Cheat Sheets
+
+This documentation covers the most common Git commands and GitHub process used in a developer's daily workflow, with practical examples and an emphasis on best practices.
+
+## Topics:
+
+1. [Global Git configurations](./git_config.md)
