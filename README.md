@@ -5,3 +5,4 @@ This documentation covers the most common Git commands and GitHub process used i
 ## Topics:
 
 1. [Global Git configurations](./git_config.md)
+2. [Guetting help](./git_help.md)
