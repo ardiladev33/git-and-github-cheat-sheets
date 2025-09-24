@@ -63,11 +63,11 @@ To unstage a specific file that has been added, using a path relative to the cur
 ### a.
 
 ```
-git reset ./<dir_name>/<file_name>.go
+git reset ./<dir_name>/<file_name>.<file_extension>
 ```
 
 ### b.
 
 ```
-git restore --staged ./<dir_name>/<file_name>.go
+git restore --staged ./<dir_name>/<file_name>.<file_extension>
 ```
