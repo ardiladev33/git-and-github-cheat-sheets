@@ -13,7 +13,8 @@ This documentation covers the most common Git commands and GitHub process used i
 
 ## Topics:
 
-1. [Global Git configurations](./git_config.md)
-2. [Guetting help](./git_help.md)
-3. [Getting started with a Git repository](./git_init_repo.md)
-4. [Recording changes to the repository](./git_rec_chang.md)
+1. [Global Git configurations](./GIT_BASICS/git_config.md)
+2. [Guetting help](./GIT_BASICS/git_help.md)
+3. [Getting started with a Git repository](./GIT_BASICS/git_init_repo.md)
+4. [Recording changes to the repository](./GIT_BASICS/git_rec_chang.md)
+5. [The commit history](./GIT_BASICS/git_commit_hist.md)

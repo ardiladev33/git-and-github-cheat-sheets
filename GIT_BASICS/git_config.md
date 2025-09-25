@@ -1,4 +1,4 @@
-# 1. [Global Git configurations](./README.md)
+# 1. [Global Git configurations](../README.md)
 
 Making a one-off adjustment to your global Git configuration is a simple yet crucial step for professional developers. By setting your username and email once, you establish a clear identity for all future contributions, ensuring accurate authorship across every project you work on. This practice is key to maintaining a clean and professional commit history, which is fundamental for effective collaboration and project accountability. It also eliminates the need to remember these details for each new repository, streamlining your workflow.
 

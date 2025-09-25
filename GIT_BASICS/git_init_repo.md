@@ -1,4 +1,4 @@
-# 3. [Getting started with a Git repository](./README.md)
+# 3. [Getting started with a Git repository](../README.md)
 
 A strong start is everything in Git; correctly initializing a new project or cloning an existing one sets the foundation for a clean, traceable history. It's a foundational step that enables precise version control and reliable collaboration from the very beginning. Once you're working, knowing how to add files to the staging area is crucial for curating your commits and bundling only relevant changes together. This control, along with the ability to unstage files to fix any mistakes, ensures your project's commit history remains logical and easy for your team to understand.
 
