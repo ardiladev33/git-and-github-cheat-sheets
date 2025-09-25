@@ -21,3 +21,4 @@ This documentation covers the most common Git commands and GitHub process used i
 6. [Undoing things](./GIT_BASICS/git_undo_things.md)
 7. [Working with remotes](./GIT_BASICS/git_working_rem.md)
 8. [Tagging](./GIT_BASICS/git_tagging.md)
+9. [Git Aliases](./GIT_BASICS/git_aliases.md)
