@@ -1,4 +1,4 @@
-# 2. [Guetting help](./README.md)
+# 2. [Guetting help](../README.md)
 
 Git's help commands are an indispensable resource for both new and experienced developers. Instead of relying on a web search, using `git help` provides immediate, offline access to comprehensive documentation right in your terminal. This capability is crucial for quickly clarifying a command's syntax, exploring different options, or understanding a complex workflow without ever leaving your console. It’s an efficient way to deepen your understanding of Git and troubleshoot issues on the fly.
 

@@ -1,4 +1,4 @@
-# 4. [Recording changes to the repository](./README.md)
+# 4. [Recording changes to the repository](../README.md)
 
 At its core, recording changes in a Git repository is about more than just saving your work. Each commit creates a permanent snapshot, giving us the power to precisely track and revert to any point in the project's history. This discipline is what allows for seamless collaboration and builds a clear, documented timeline of a project's evolution.
 
