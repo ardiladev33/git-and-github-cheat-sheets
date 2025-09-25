@@ -19,3 +19,4 @@ This documentation covers the most common Git commands and GitHub process used i
 4. [Recording changes to the repository](./GIT_BASICS/git_rec_chang.md)
 5. [The commit history](./GIT_BASICS/git_commit_hist.md)
 6. [Undoing things](./GIT_BASICS/git_undo_things.md)
+7. [Working with remotes](./GIT_BASICS/git_working_rem.md)
